@@ -1,17 +1,78 @@
-# attendence_tracker
+# AttenTrack 📚
 
-A new Flutter project.
+A Flutter-based college attendance tracking application developed as a **Semester 3 Software Engineering Project**.
 
-## Getting Started
+AttenTrack helps students track their attendance, manage their weekly timetable, view attendance history through a calendar, and predict the attendance they need to maintain their required percentage.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📊 **Overall Attendance**
+  - View overall attendance percentage
+  - Track attended and missed classes
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 📚 **Subject-wise Attendance**
+  - View attendance for individual subjects
+  - Visual attendance indicators
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📅 **Calendar Attendance**
+  - View attendance day by day
+  - Green, red, and grey indicators for class status
+
+- 🗓️ **Weekly Timetable**
+  - Create and manage a weekly class timetable
+  - Add, edit, delete, and reorder classes
+
+- ✅ **Attendance Tracking**
+  - Mark classes as Present or Absent
+  - Attendance is stored locally
+
+- 📈 **Attendance Prediction**
+  - Predict classes that need to be attended or can be skipped
+  - Helps maintain the required attendance percentage
+
+- 📖 **Subject Management**
+  - Add and manage subjects
+  - Rename or delete subjects
+
+- 🔄 **Semester Management**
+  - Manage subjects according to the current semester
+
+- 💾 **Local Data Storage**
+  - Attendance and timetable data are stored locally using Hive
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Hive**
+- **Material UI**
+
+## 📱 Platform
+
+AttenTrack is developed using Flutter and can be configured for:
+
+- Android
+- Web
+- Windows
+- Linux
+- macOS
+- iOS
+
+## 🎓 Academic Project
+
+**Project:** AttenTrack  
+**Type:** Semester 3 Software Engineering Project  
+**Purpose:** College Attendance Management
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure Flutter is installed on your system.
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Rah4n/AttenTrack.git
