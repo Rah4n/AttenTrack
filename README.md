@@ -63,6 +63,22 @@ AttenTrack is developed using Flutter and can be configured for:
 **Project:** AttenTrack  
 **Type:** Semester 3 Software Engineering Project  
 **Purpose:** College Attendance Management
+## 📱 Screenshots
+
+### 🏠 Home Screen
+![AttenTrack Home Screen](assets/screenshots/homescreen.jpeg)
+
+### 📊 Monthly Analysis
+![AttenTrack Monthly Analysis](assets/screenshots/monthly%20analysis.jpeg)
+
+### 📅 Calendar
+![AttenTrack Calendar](assets/screenshots/calender.jpg.jpeg)
+
+### 🗓️ Daily Timetable
+![AttenTrack Daily Timetable](assets/screenshots/day.jpeg)
+
+### ⚙️ Settings
+![AttenTrack Settings](assets/screenshots/settings.jpeg)
 
 ## 🚀 Getting Started
 
